@@ -4,7 +4,6 @@ application/config/*
 
 system/*
 
-readme.txt
 upgrade.txt
 js/
 license/
